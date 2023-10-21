@@ -1,2 +1,4 @@
-# special_project
-hi SOC
+# special_project - SOC
+- Lab1
+- Lab2
+- Lab3
