@@ -1,2 +1,2 @@
 # special_project
-hi
+hi SOC
