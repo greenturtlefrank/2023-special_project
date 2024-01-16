@@ -1,3 +1,2 @@
-# special_project - SOC
 
   
